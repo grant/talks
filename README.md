@@ -1,7 +1,7 @@
 # Talks
 
 **10.29.2015 - How to Prepare for Technical Interviews**
-- Slides: https://docs.google.com/presentation/d/1X4kAlq4amNeIxW6Y6IR6fh1whSor5llmfMxWfep84yY/edit?usp=sharing)
+- Slides: https://docs.google.com/presentation/d/1X4kAlq4amNeIxW6Y6IR6fh1whSor5llmfMxWfep84yY
 
 **04.16.2015 - React.js: The Frontend Framework of the Future**
 - Slides: http://grant.github.io/react-talk/talk/
