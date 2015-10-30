@@ -18,15 +18,15 @@
 - GitHub: https://github.com/UWHackers/uwhackers.github.io/tree/master/3d-printing
 
 **05.01.2014 - Mobile Design - Responsive Design and UI Paradigms**
-Slides: http://grant.github.io/Mobile-Development-Design/#/
-GitHub: https://github.com/grant/Mobile-Development-Design/tree/gh-pages
+- Slides: http://grant.github.io/Mobile-Development-Design/#/
+- GitHub: https://github.com/grant/Mobile-Development-Design/tree/gh-pages
 
 **04.02.2014 - Open Sourcing Everything**
-Slides: http://uwhackers.github.io/open-source-slides/#/
-GitHub: https://github.com/UWHackers/uwhackers.github.io/tree/master/open-source-slides
+- Slides: http://uwhackers.github.io/open-source-slides/#/
+- GitHub: https://github.com/UWHackers/uwhackers.github.io/tree/master/open-source-slides
 
 **02.27.2014 - Hacking like a Hipster (Gulp, Heroku and more!)**
-Slides: http://uwhackers.github.io/grunt-gulp-heroku-slides
-Video: https://www.youtube.com/watch?v=weZUOS8QuLw
-GitHub: https://github.com/UWHackers/WebDev/tree/master/p4/slides
-Facebook: https://www.facebook.com/events/1423495777897005/
+- Slides: http://uwhackers.github.io/grunt-gulp-heroku-slides
+- Video: https://www.youtube.com/watch?v=weZUOS8QuLw
+- GitHub: https://github.com/UWHackers/WebDev/tree/master/p4/slides
+- Facebook: https://www.facebook.com/events/1423495777897005/
