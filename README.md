@@ -2,6 +2,7 @@
 
 **12.16.2017 - All About Apps Script**
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
+- Other dates 03.16.2018 (CCC), 03.28-29.2918 TrailheaDX
 
 **10.29.2015 - How to Prepare for Technical Interviews**
 - Slides: https://docs.google.com/presentation/d/1X4kAlq4amNeIxW6Y6IR6fh1whSor5llmfMxWfep84yY
