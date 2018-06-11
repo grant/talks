@@ -1,8 +1,11 @@
 # Talks
 
+## 06.08.2018 – All About Apps Script
+- Slides: https://docs.google.com/presentation/d/11DCR_2_SoS_fw9rnajcvm9VJLDltweOK5eDg8UoxXo8/edit
+- Event: [DevFest DC](https://www.devfestdc.org/), D.C.
+
 ## All About Apps Script
 - Dates:
-  - 06.08.2018 - [DevFest DC](https://www.devfestdc.org/), San Francisco
   - 03.28.2018 - [TrailheaDX](https://developer.salesforce.com/trailheadx), San Francisco
   - 03.16.2018 - Cloud Community Convference, Sunnyvale
   - 12.16.2017 - [DevFest SV](https://devfest2017.gdg-sv.com/)
