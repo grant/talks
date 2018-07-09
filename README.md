@@ -1,5 +1,9 @@
 # Talks
 
+## 07.25.2018 – Enhancing the Google Apps Script Developer Experience
+- Slides: TODO
+- Event: [Google Cloud Next](https://cloud.withgoogle.com/next18/sf/), SF
+
 ## 06.08.2018 – All About Apps Script
 - Slides: https://docs.google.com/presentation/d/11DCR_2_SoS_fw9rnajcvm9VJLDltweOK5eDg8UoxXo8/edit
 - Event: [DevFest DC](https://www.devfestdc.org/), D.C.
