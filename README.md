@@ -16,7 +16,7 @@
 - Event: Cloud Community Conference, Sunnyvale
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
-## 12.16.2017 - G Suite APIs
+## 12.16.2017 - All About Apps Script
 - Event: DevFest SV: https://devfest2017.gdg-sv.com/
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
@@ -50,3 +50,11 @@
 - Video: https://www.youtube.com/watch?v=weZUOS8QuLw
 - GitHub: https://github.com/UWHackers/WebDev/tree/master/p4/slides
 - Facebook: https://www.facebook.com/events/1423495777897005/
+
+# Media
+
+![serverless](https://user-images.githubusercontent.com/744973/42464374-a80be546-835d-11e8-8268-878269606f9b.jpg)
+
+> [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
+
+(12.16.2017 - All About Apps Script) ([Crowd](https://twitter.com/gdgsv/status/942127374497333248))
