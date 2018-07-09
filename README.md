@@ -12,10 +12,12 @@
 - Event: [TrailheaDX](https://developer.salesforce.com/trailheadx), San Francisco
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
-## 03.16.2018 - Cloud Community Conference, Sunnyvale
+## 03.16.2018 - All About Apps Script
+- Event: Cloud Community Conference, Sunnyvale
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
-## 12.16.2017 - [DevFest SV](https://devfest2017.gdg-sv.com/)
+## 12.16.2017 - G Suite APIs
+- Event: DevFest SV: https://devfest2017.gdg-sv.com/
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
 ## 10.29.2015 - How to Prepare for Technical Interviews
