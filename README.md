@@ -8,11 +8,14 @@
 - Slides: https://docs.google.com/presentation/d/11DCR_2_SoS_fw9rnajcvm9VJLDltweOK5eDg8UoxXo8/edit
 - Event: [DevFest DC](https://www.devfestdc.org/), D.C.
 
-## All About Apps Script
-- Dates:
-  - 03.28.2018 - [TrailheaDX](https://developer.salesforce.com/trailheadx), San Francisco
-  - 03.16.2018 - Cloud Community Convference, Sunnyvale
-  - 12.16.2017 - [DevFest SV](https://devfest2017.gdg-sv.com/)
+## 03.28.2018 - All About Apps Script
+- Event: [TrailheaDX](https://developer.salesforce.com/trailheadx), San Francisco
+- Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
+
+## 03.16.2018 - Cloud Community Conference, Sunnyvale
+- Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
+
+## 12.16.2017 - [DevFest SV](https://devfest2017.gdg-sv.com/)
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
 ## 10.29.2015 - How to Prepare for Technical Interviews
