@@ -1,5 +1,10 @@
 # Talks
 
+## 07.25.2018 – Automate with Apps Script – Javascript in Google Cloud
+- Slides: TODO
+- Event: [OpenLate](https://www.meetup.com/OpenLate/events/qbcsfnyxlbkb/)
+- Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides. Apps Script lets you do more with Google. All on a JavaScript platform in the cloud.
+
 ## 07.25.2018 – Enhancing the Google Apps Script Developer Experience
 - Slides: TODO
 - Event: [Google Cloud Next](https://cloud.withgoogle.com/next18/sf/), SF
