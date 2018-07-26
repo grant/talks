@@ -6,8 +6,8 @@
 - Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides. Apps Script lets you do more with Google. All on a JavaScript platform in the cloud.
 
 ## 07.25.2018 – Enhancing the Google Apps Script Developer Experience
-- Slides: TODO
 - Event: [Google Cloud Next](https://cloud.withgoogle.com/next18/sf/), SF
+- Slides: https://docs.google.com/presentation/d/19Uol7pZLFhgCfHZVrr40g3cWpqJ-ccrdMl8Tj0p5xng/edit?usp=sharing
 
 ## 06.08.2018 – All About Apps Script
 - Slides: https://docs.google.com/presentation/d/11DCR_2_SoS_fw9rnajcvm9VJLDltweOK5eDg8UoxXo8/edit
