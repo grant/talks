@@ -7,7 +7,7 @@
 
 ## 07.25.2018 – Enhancing the Google Apps Script Developer Experience
 - Event: [Google Cloud Next](https://cloud.withgoogle.com/next18/sf/), SF
-- Slides: https://docs.google.com/presentation/d/19Uol7pZLFhgCfHZVrr40g3cWpqJ-ccrdMl8Tj0p5xng/edit?usp=sharing
+- Slides: https://drive.google.com/open?id=1bi5b6ETBieFZ3nge78rccFp2ugEx9aHp3Q1osIr6vUE
 
 ## 06.08.2018 – All About Apps Script
 - Slides: https://docs.google.com/presentation/d/11DCR_2_SoS_fw9rnajcvm9VJLDltweOK5eDg8UoxXo8/edit
