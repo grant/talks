@@ -1,5 +1,11 @@
 # Talks
 
+## XX.XX.2018 – All About Apps Script
+- Slides: TODO
+- Event: DevFest Dublin
+- Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
+- Tags: JavaScript, G Suite, Serverless, Productivity
+
 ## 08.07.2018 – Automate with Apps Script
 - Slides: TODO
 - Event: [OpenLate](https://www.meetup.com/OpenLate/events/qbcsfnyxlbkb/)
