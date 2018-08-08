@@ -12,7 +12,7 @@
 - Tags: JavaScript, G Suite, Serverless, Productivity
 
 ## 08.07.2018 – Automate with Apps Script
-- Slides: TODO
+- Slides: https://docs.google.com/presentation/d/1i9dYU0UlUK50xJ0ECBAlmxkQm0G_hOOe4sfQ6yDxWeI/edit
 - Event: [OpenLate](https://www.meetup.com/OpenLate/events/qbcsfnyxlbkb/)
 - Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides. Apps Script lets you do more with Google. All on a JavaScript platform in the cloud.
 
