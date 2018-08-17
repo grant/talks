@@ -1,5 +1,12 @@
 # Talks
 
+## 11.07.2018 – Automate G Suite with Apps Script and Angular
+- **Event:** AngularConnect, London
+- **Description:** Google Apps Script provides a layer of abstraction for interacting with Google APIs, from Gmail to Google Sheets and Calendar. Angular provides a complete client-side solution for web applications. In this talk, I'll show you how together, with Apps Script and Angular, you can build powerful web apps to automate tasks in minutes.
+- **About:** Grant is a developer platform engineer at Google where he leads open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
+- **Subjects:** CLI, 3rd party libraries that work well with Angular, Authentication, Using Angular in a CMS environment
+- **Title:** Developer Platform Engineer - G Suite - Google
+
 ## 10.20.2018 – All About Apps Script
 - **Event:** GDG Fresno, Bitwise South Stadium [700 Van Ness Ave, Fresno, CA 93721]
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
