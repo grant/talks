@@ -1,6 +1,6 @@
 ## Grant Timmerman
 
-Engineer - G Suite
+Developer Platform Engineer, Google
 
 ![profile](https://user-images.githubusercontent.com/744973/38894674-c762c6dc-4242-11e8-82a4-c3369c2adf94.jpg)
 
