@@ -18,6 +18,10 @@
 - **Subjects:** CLI, 3rd party libraries that work well with Angular, Authentication, Using Angular in a CMS environment
 - **Title:** Developer Platform Engineer - G Suite - Google
 
+## 11.03.2018 – All About Apps Script
+- **Event:** GDG Berkeley
+- **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
+
 ## 10.21.2018 – Automate G Suite with APIs and Apps Script
 - **Event:** GDG Vancouver
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
