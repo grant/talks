@@ -9,6 +9,9 @@
 - **Format**: Talk, 30-45 minutes
 - **Tags**: Cloud, JavaScript, Serverless, G Suite, TypeScript
 
+## 01.26.2019 – All About Apps Script
+- **Event:** GDG St. Louis
+
 ## 01.19.2019 – All About Apps Script
 - **Event:** GDG Central Florida
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
