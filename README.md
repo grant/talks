@@ -50,11 +50,11 @@
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 - **Full Description (<250 words):** Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There's nothing to install — we give you a code editor right in your browser, and your scripts run on Google's servers. In this session, you will learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 
-## XX.XX.2018 – All About Apps Script
-- Slides: TODO
-- Event: DevFest Dublin
-- Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
-- Tags: JavaScript, G Suite, Serverless, Productivity
+## 09.12.2018 – SF Python Meetup
+- 5 minute G Suite + Python lightning talk
+
+## 09.06.2018 – G Suite Developer Days
+- Event: Colgate-palmolive
 
 ## 08.07.2018 – Automate with Apps Script
 - Slides: https://docs.google.com/presentation/d/1i9dYU0UlUK50xJ0ECBAlmxkQm0G_hOOe4sfQ6yDxWeI/edit
@@ -111,6 +111,14 @@
 - Video: https://www.youtube.com/watch?v=weZUOS8QuLw
 - GitHub: https://github.com/UWHackers/WebDev/tree/master/p4/slides
 - Facebook: https://www.facebook.com/events/1423495777897005/
+
+# Future events?
+
+## XX.XX.2018 – All About Apps Script
+- Slides: TODO
+- Event: DevFest Dublin
+- Abstract: Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
+- Tags: JavaScript, G Suite, Serverless, Productivity
 
 # Media
 
