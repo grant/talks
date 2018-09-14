@@ -129,3 +129,7 @@
 > [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
 
 (12.16.2017 - All About Apps Script) ([Crowd](https://twitter.com/gdgsv/status/942127374497333248))
+
+<img src="https://user-images.githubusercontent.com/744973/45561625-0ac39980-b7fd-11e8-89d2-2d28c714acd7.jpg" width="400" />
+
+(09.12.2018 – Python Meetup) [Tweet](https://twitter.com/granttimmerman/status/1040067728583712769)
