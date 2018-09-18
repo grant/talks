@@ -41,6 +41,10 @@
 ## 10.28.2018 – All About Apps Script
 - **Event:** GDG SF, DevFest
 
+## 10.24/25.2018 – All About Apps Script
+- **Event:** GDG Austin
+- Still coordinating via meetup.com
+
 ## 10.21.2018 – Automate G Suite with APIs and Apps Script
 - **Event:** GDG Vancouver
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
