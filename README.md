@@ -46,7 +46,7 @@
 - Still coordinating via meetup.com
 
 ## 10.22.2018 – Intro into Git and Google Cloud
-Event: UBC Tech Talk
+- Event: UBC Tech Talk
 
 ## 10.21.2018 – Automate G Suite with APIs and Apps Script
 - **Event:** GDG Vancouver
@@ -56,6 +56,9 @@ Event: UBC Tech Talk
 - **Event:** GDG Fresno, Bitwise South Stadium [700 Van Ness Ave, Fresno, CA 93721]
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 - **Full Description (<250 words):** Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There's nothing to install — we give you a code editor right in your browser, and your scripts run on Google's servers. In this session, you will learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
+
+## 09.29.2018 – All About Apps Script
+- **Event**: [Google Cloud Next – NYC](https://www.meetup.com/GDG-Bronx/events/252972021/)
 
 ## 09.12.2018 – G Suite + Python lightning talk
 - Event: [SF Python Meetup](https://www.meetup.com/sfpython/events/254295636/)
