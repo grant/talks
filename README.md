@@ -1,14 +1,14 @@
 # Talks
 
 ## 02.01.2019 – All About Apps Script
-- **Event:** Windy City Devfest (GDG Chicago)
+- **Event:** [Windy City Devfest](https://windycity.devfest.io/home) (GDG Chicago)
 - **Abstract:** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 - **Description:** Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There’s nothing to install — we give you a code editor right in your browser, and your scripts run on Google’s servers. In this session, you will learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 - **Format**: Talk, 30-45 minutes
 - **Tags**: Cloud, JavaScript, Serverless, G Suite, TypeScript
 
 ## 01.26.2019 – All About Apps Script
-- **Event:** GDG St. Louis
+- **Event:** [GDG St. Louis](https://www.meetup.com/GDGSTL/events/)
 
 ## 01.19.2019 – All About Apps Script
 - **Event:** [GDG Central Florida](https://www.meetup.com/GDG-Central-Florida/events/253755546/)
@@ -23,7 +23,7 @@
 - **Event:** [GDG SF](https://www.meetup.com/google-developer-group-san-francisco/), Monthly Meetup
 
 ## 11.07.2018 – Automate G Suite with Apps Script and Angular
-- **Event:** Angular Connect, London https://angularconnect.com/ [CfP](https://angularconnect.com/cfp)
+- **Event:** [Angular Connect](https://angularconnect.com/), London [CfP](https://angularconnect.com/cfp)
 - **Description:** Google Apps Script provides a layer of abstraction for interacting with Google APIs, from Gmail to Google Sheets and Calendar. Angular provides a complete client-side solution for web applications. In this talk, I'll show you how together, with Apps Script and Angular, you can build powerful web apps to automate tasks in minutes.
 - **About:** Grant is a developer platform engineer at Google where he leads open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
 - **Subjects:** CLI, 3rd party libraries that work well with Angular, Authentication, Using Angular in a CMS environment
@@ -48,7 +48,7 @@
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
 
 ## 10.20.2018 – All About Apps Script
-- **Event:** GDG Fresno, Bitwise South Stadium [700 Van Ness Ave, Fresno, CA 93721]
+- **Event:** [GDG Fresno](https://www.meetup.com/googledevelopers/events/253850757/), Bitwise South Stadium [700 Van Ness Ave, Fresno, CA 93721]
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 - **Full Description (<250 words):** Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There's nothing to install — we give you a code editor right in your browser, and your scripts run on Google's servers. In this session, you will learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
 
