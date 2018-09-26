@@ -36,9 +36,11 @@
 ## 10.28.2018 – All About Apps Script
 - **Event:** GDG SF, DevFest
 
-## 10.24/25.2018 – All About Apps Script
-- **Event:** [GDG Austin](https://www.meetup.com/gdgaustin/) & UT Austin
-- Still coordinating via meetup.com
+## 10.25.2018 – All About Apps Script
+- Event: [GDG Austin](https://www.meetup.com/gdgaustin/)
+
+## 10.24.2018  – All About Apps Script
+- Event: UT Austin
 
 ## 10.22.2018 – Intro into Git and Google Cloud
 - Event: UBC Tech Talk
