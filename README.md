@@ -14,6 +14,10 @@
 - **Event:** [GDG Central Florida](https://www.meetup.com/GDG-Central-Florida/events/253755546/)
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
 
+## 12.13.2018 – All About Apps Script
+- **Event:** [Seattle JS](https://github.com/seattlejs/seattlejs/issues/138)
+- **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
+
 ## 12.02.2018 – All About Apps Script
 - **Event:** [DevFest LA](https://devfest.gdgla.org/)
 - **Elevator Pitch:** Learn how to increase the power of your favorite Google apps in G Suite — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a serverless JavaScript platform in Google Cloud.
