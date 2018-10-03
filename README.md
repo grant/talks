@@ -73,6 +73,7 @@
 
 ## 09.26.2018 – Automate G Suite with Apps Script
 - **Event**: [GDG Fremont](https://www.meetup.com/GDG-Fremont/events/254077517)
+- **Slides**: https://docs.google.com/presentation/d/1KO4ullPw909r1Fxnxw4sPSgAhDtGyYZFAQRL0beJvek/edit?usp=sharing
 
 ## 09.12.2018 – G Suite + Python lightning talk
 - Event: [SF Python Meetup](https://www.meetup.com/sfpython/events/254295636/)
