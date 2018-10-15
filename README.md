@@ -29,6 +29,9 @@
 ## 11.14.2018 – All About Apps Script
 - **Event:** [GDG SF](https://www.meetup.com/google-developer-group-san-francisco/), Monthly Meetup
 
+## 11.08.2018 – Automate G Suite with Apps Script
+- **Event:** [GDG Stockholm](https://www.meetup.com/Stockholm-Google-Developer-Group/events/255474330/)
+
 ## 11.07.2018 – Automate G Suite with Apps Script and Angular
 - **Event:** [Angular Connect](https://angularconnect.com/), London [CfP](https://angularconnect.com/cfp)
 - **Description:** Google Apps Script provides a layer of abstraction for interacting with Google APIs, from Gmail to Google Sheets and Calendar. Angular provides a complete client-side solution for web applications. In this talk, I'll show you how together, with Apps Script and Angular, you can build powerful web apps to automate tasks in minutes.
