@@ -52,11 +52,9 @@
 ## 10.24.2018  – All About Apps Script
 - Event: UT Austin
 
-## 10.22.2018 – Intro into Git and Google Cloud
-- Event: UBC Tech Talk
-
 ## 10.21.2018 – Automate G Suite with APIs and Apps Script
 - **Event:** [GDG Vancouver](https://devfest2018vancouver.firebaseapp.com/)
+- **Slides:** https://docs.google.com/presentation/d/1mWGe4J9ZOHtkPG7EmbdptXdMmaFDJ7NqwCDlQuH6x84/edit?usp=sharing
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
 
 ## 10.20.2018 – All About Apps Script
