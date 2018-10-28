@@ -51,6 +51,7 @@
 
 ## 10.24.2018  – All About Apps Script
 - Event: UT Austin
+- Slides: https://docs.google.com/presentation/d/1Fk_f4VjLREKDt1dJBp0JYc0SCoVVhKVaPZNyQIDLCZo/edit?usp=sharing
 
 ## 10.21.2018 – Automate G Suite with APIs and Apps Script
 - **Event:** [GDG Vancouver](https://devfest2018vancouver.firebaseapp.com/)
