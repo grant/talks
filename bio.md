@@ -8,14 +8,16 @@ Grant is a developer platform engineer at Google where he leads open source for 
 
 ## Common Questions
 
-- Name: Grant Timmerman
-- Profession: Developer Platform Engineer, Google
-- Facebook: facebook.com/grant.timmerman
-- Twitter: twitter.com/granttimmerman
-- GitHub: github.com/grant
-- LinkedIn: linkedin.com/in/granttimmerman
-- Website: grant.cm
-- YouTube Channel: youtube.com/granttimmerman
+- **Name:** Grant Timmerman
+- **Profession:** Developer Platform Engineer, Google
+- **Facebook:** facebook.com/grant.timmerman
+- **Twitter:** twitter.com/granttimmerman
+- **GitHub:** github.com/grant
+- **LinkedIn:** linkedin.com/in/granttimmerman
+- **Website:** grant.cm
+- **YouTube:** youtube.com/granttimmerman
+
+### Session
 
 - Session Title
 - Session Description (100 words max)
