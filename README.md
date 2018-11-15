@@ -27,10 +27,7 @@
 - **Event:** [DevFest Dublin](https://dublin-devfest-2018.firebaseapp.com/)
 
 ## 11.16.2018 – GDG Martin Hawksey + Grant Fireside Chat
-- **Event:** [Martin + Grant ](https://dublin-devfest-2018.firebaseapp.com/)
-
-## 11.14.2018 – All About Apps Script
-- **Event:** [GDG SF](https://www.meetup.com/google-developer-group-san-francisco/), Monthly Meetup
+- **Event:** [Martin + Grant](https://dublin-devfest-2018.firebaseapp.com/)
 
 ## 11.08.2018 – Automate G Suite with Apps Script
 - **Event:** [GDG Stockholm](https://www.meetup.com/Stockholm-Google-Developer-Group/events/255474330/)
@@ -47,7 +44,7 @@
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
 
 ## 10.28.2018 – All About Apps Script
-- **Event:** GDG SF, DevFest
+- **Event:** [GDG SF, DevFest](https://www.meetup.com/google-developer-group-san-francisco/events/253616001/)
 
 ## 10.25.2018 – All About Apps Script
 - Event: [GDG Austin](https://www.meetup.com/gdgaustin/)
