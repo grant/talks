@@ -25,6 +25,7 @@
 
 ## 11.17.2018 – All About Apps Script
 - **Event:** [DevFest Dublin](https://dublin-devfest-2018.firebaseapp.com/)
+- **Slides:** https://docs.google.com/presentation/d/1Czbdze8Bg7_rvvekWM6tI9bW39KYyG-_aR2uKFwkH_c/edit#slide=id.g2583311855_14_56
 
 ## 11.16.2018 – GDG Martin Hawksey + Grant Fireside Chat
 - **Event:** [Martin + Grant](https://dublin-devfest-2018.firebaseapp.com/)
