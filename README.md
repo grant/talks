@@ -17,6 +17,7 @@
 ## 12.13.2018 – All About Apps Script
 - **Event:** [Seattle JS](https://github.com/seattlejs/seattlejs/issues/138)
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
+- **Slides:** https://docs.google.com/presentation/d/1m0v2y65fdbS9USDq1_yzo0J2U5YTj-_a--PiQw5EoG8/edit#slide=id.g49f0451863_3_3557
 
 ## 12.02.2018 – All About Apps Script
 - **Event:** [DevFest LA](https://devfest.gdgla.org/)
