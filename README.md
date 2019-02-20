@@ -1,7 +1,7 @@
 # Talks
 
 ## 02.23.2019 – Google Cloud Functions for Go
-- **Event:** GDG SV
+- **Event:** [GDG SV](https://www.meetup.com/gdg-silicon-valley/events/258255512/)
 - **Description**: The Serverless Movement: Serverless abstracts away the most menial parts of building an application, leaving developers free to actually spend their days coding. In this talk, Grant will introduce the basics using Google Cloud Functions, featuring the new Go runtime.
 
 ## 02.22.2019 – All About Apps Script
