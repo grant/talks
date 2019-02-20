@@ -4,6 +4,14 @@
 - **Event:** GDG SV
 - **Description**: The Serverless Movement: Serverless abstracts away the most menial parts of building an application, leaving developers free to actually spend their days coding. In this talk, Grant will introduce the basics using Google Cloud Functions, featuring the new Go runtime.
 
+## 02.22.2019 – All About Apps Script
+- **Event:** [Developer Week – SF](https://developerweek2019.sched.com/event/JFo7/pro-talk-all-about-apps-script)
+- **Description:** Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There's nothing to install — we give you a code editor right in your browser, and your scripts run on Google's servers. In this session, you will learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud.
+
+## 02.20.2019 – Apps Script, The Original Serverless Runtime (PRO WORKSHOP)
+- **Event:** [Developer Week – SF](https://developerweek2019.sched.com/event/JYSK/pro-workshop-apps-script-the-original-serverless-runtime)
+- **Description:** It’s Serverless. It’s JavaScript. It’s integrated. It scales and runs over 3.3 billion application invocations every week. Yeah, you can do that with Apps Script. Focus on outcomes, not on infrastructure. Apps Script is a rapid development platform that is fast and easy to create web applications – in low code. It is the cloud runtime we’ve already had all along.
+
 ## 01.19.2019 – All About Apps Script
 - **Event:** [GDG Central Florida](https://www.meetup.com/GDG-Central-Florida/events/253755546/)
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
