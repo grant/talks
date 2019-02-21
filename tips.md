@@ -2,7 +2,7 @@
 
 - Bio (Name is Title. With X talent, Name is passionate about Z. Name lives in Loc and does Y in his spare time.
 - Clear Headshot
-- Curate best content.
+- Curate best content
 - Have bio webpage
 
 ## Structure
@@ -52,3 +52,17 @@ Examples:
 - X is a great way to do Y. This talk will teach you everything to do Z including a, b, c. After this talk, you'll be ready to foo.
 - Have you wanted to do X but didn't make progress? Y can help you do X. This talk will teach you how to A, how to B, and how C can help too. After this talk...
 - Question? Fact helps. This talk will teach attendees how to X including (list A, B, C). After this talk, attendees can Z!
+
+## Pre-talk
+
+- Look sharp
+- Wear a nametag
+- Smile
+- Talk to the audience
+- Take pictures
+- Setup computer with slides and demos. Close everything else as much as possible.
+
+## Post-talk
+
+- Thank the attendees
+- Thank the organizers (in person and in email)
