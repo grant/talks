@@ -23,3 +23,8 @@ Grant is a developer platform engineer at Google where he works on Google Cloud 
 - Session Description (100 words max)
 - Categories (General, Cloud, Mobile, Web, ML, IoT, Android, Firebase, VR/AR, Polymer)
 - Beginner/Intermediate/Advanced
+
+### Other photos
+
+![https://twitter.com/granttimmerman/status/1103069984576569345](https://pbs.twimg.com/media/D07kM0SU8AAMQBe.jpg)
+https://twitter.com/granttimmerman/status/1103069984576569345
