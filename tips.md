@@ -5,6 +5,10 @@
 - Curate best content
 - Have bio webpage
 
+## Slides
+
+- Code Highlighting: https://romannurik.github.io/SlidesCodeHighlighter/
+
 ## Structure
 
 - Title
