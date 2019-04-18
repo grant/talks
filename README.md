@@ -1,8 +1,19 @@
 # Talks
 
+## Functions as a Service
+
+## 05.07.2019 Functions as a Service
+- **Event:** [Google I/O '19](https://events.google.com/io/)
+- **Description:** Google Cloud Functions makes it easy for developers to run and scale code in the cloud and build event-driven serverless applications. In this session you'll learn about the latest updates with Google Cloud Functions along with a few demos of Functions working in action!
+
+## 04.10.2019 Functions as a Service
+- **Event:** [Google Cloud Next](https://cloud.withgoogle.com/next/sf/)
+- **Description:** Google Cloud Functions makes it easy for developers to run and scale code in the cloud and build event-driven serverless applications. In this session you'll learn about the latest updates with Google Cloud Functions along with a few demos of Functions working in action!
+- **Video**: https://www.youtube.com/watch?v=fEbAALVwyEU
+
 ## 02.23.2019 – Google Cloud Functions for Go
 - **Event:** [GDG SV](https://www.meetup.com/gdg-silicon-valley/events/258255512/)
-- **Description**: The Serverless Movement: Serverless abstracts away the most menial parts of building an application, leaving developers free to actually spend their days coding. In this talk, Grant will introduce the basics using Google Cloud Functions, featuring the new Go runtime.
+- **Description:** The Serverless Movement: Serverless abstracts away the most menial parts of building an application, leaving developers free to actually spend their days coding. In this talk, Grant will introduce the basics using Google Cloud Functions, featuring the new Go runtime.
 
 ## 02.22.2019 – All About Apps Script
 - **Event:** [Developer Week – SF](https://developerweek2019.sched.com/event/JFo7/pro-talk-all-about-apps-script)
