@@ -1,7 +1,5 @@
 # Talks
 
-## Functions as a Service
-
 ## 05.07.2019 Functions as a Service
 - **Event:** [Google I/O '19](https://events.google.com/io/)
 - **Description:** Google Cloud Functions makes it easy for developers to run and scale code in the cloud and build event-driven serverless applications. In this session you'll learn about the latest updates with Google Cloud Functions along with a few demos of Functions working in action!
