@@ -1,8 +1,13 @@
 # Talks
 
+## 06.13.2019 Go Serverless with Google Cloud Functions
+- **Event:** [SeattleJS](https://www.meetup.com/seattlejs/events/clmbzqyzjbrb)
+- **Description**: Your development agility comes from building systems composed of small, independent units of functionality focused on doing one thing well. Cloud Functions lets you build and deploy services at the level of a single function, not at the level of entire applications, containers, or VMs. In this session, you will learn the fundamentals about Google Cloud Functions, some use-cases, and how to write Cloud Functions in TypeScript!
+
 ## 06.12.2019 Intro into Google Cloud Functions
 - **Event:** [SF Python](https://www.meetup.com/sfpython/events/xkwxvqyzjbqb/)
 - **Description:** Google Cloud Functions makes it easy for developers to run and scale code in the cloud and build event-driven serverless applications. In this session you'll learn about the latest updates with Google Cloud Functions along with a few demos of Functions working in action!
+- **Video**: TBD
 
 ## 05.07.2019 Functions as a Service
 - **Event:** [Google I/O '19](https://events.google.com/io/)
