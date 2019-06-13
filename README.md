@@ -76,6 +76,7 @@
 - **Event:** [GDG Vancouver](https://devfest2018vancouver.firebaseapp.com/)
 - **Slides:** https://docs.google.com/presentation/d/1mWGe4J9ZOHtkPG7EmbdptXdMmaFDJ7NqwCDlQuH6x84/edit?usp=sharing
 - **Description (<100 words):** Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
+- **Video:** https://www.youtube.com/watch?v=qFN8ULYt7Bk
 
 ## 10.20.2018 – All About Apps Script
 - **Event:** [GDG Fresno](https://www.meetup.com/googledevelopers/events/253850757/), Bitwise South Stadium [700 Van Ness Ave, Fresno, CA 93721]
