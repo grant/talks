@@ -7,6 +7,7 @@
 ## 06.12.2019 Intro into Google Cloud Functions
 - **Event:** [SF Python](https://www.meetup.com/sfpython/events/xkwxvqyzjbqb/)
 - **Description:** Google Cloud Functions makes it easy for developers to run and scale code in the cloud and build event-driven serverless applications. In this session you'll learn about the latest updates with Google Cloud Functions along with a few demos of Functions working in action!
+- **Feedback Form**: http://forms.gle/ScfFdV1x5tL7KKQVA
 - **Video**: TBD
 
 ## 05.07.2019 Functions as a Service
