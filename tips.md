@@ -68,5 +68,21 @@ Examples:
 
 ## Post-talk
 
-- Thank the attendees
-- Thank the organizers (in person and in email)
+### Thank the attendees
+
+Example:
+
+```
+Thanks so much for coming! 💖💕💗
+
+👨‍💻👩‍💻TRY our open-source Functions Framework:
+https://github.com/GoogleCloudPlatform/functions-framework-nodejs
+
+🎥WATCH our great introductory videos:
+https://www.youtube.com/watch?v=1w2t3EWmlVU
+
+🐦TWEET your questions at me:
+https://twitter.com/granttimmerman
+```
+
+### Thank the organizers (in person and in email)
