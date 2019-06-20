@@ -1,9 +1,10 @@
 ## 2019, Node+JS Interactive 2019
 
-Title: Go Serverless with Google Cloud Functions
-Abstract: Your development agility comes from building systems composed of small, independent units of functionality focused on doing one thing well. Cloud Functions lets you build and deploy services at the level of a single function, not at the level of entire applications, containers, or VMs. In this session, you will learn the fundamentals about Google Cloud Functions, some use-cases, and how to write Cloud Functions in TypeScript!
-Benefits to the ecosystem: Node developers can deploy their applications to the cloud in seconds. With a little extra setup, you can use a TypeScript build and test your functions locally in the same environment that is used in production.
-Tech requirements: No extra requirements.
+- Title: Go Serverless with Google Cloud Functions
+- Abstract: Your development agility comes from building systems composed of small, independent units of functionality focused on doing one thing well. Cloud Functions lets you build and deploy services at the level of a single function, not at the level of entire applications, containers, or VMs. In this session, you will learn the fundamentals about Google Cloud Functions, some use-cases, and how to write Cloud Functions in TypeScript!
+- Benefits to the ecosystem: Node developers can deploy their applications to the cloud in seconds. With a little extra setup, you can use a TypeScript build and test your functions locally in the same environment that is used in production.
+- Tech requirements: No extra requirements.
+
 Would love to incorporate my saxophone into the talk (like I do in SF) if it's encouraged.
 
 ## 2019, Feb 7-8 All About Apps Script
