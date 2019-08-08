@@ -15,6 +15,12 @@
 - About
 - Schedule
 
+## Finding Talks
+
+- Signup for request for proposals email lists.
+- Look at the previous year's events.
+- Find local meetups online and reach out to organizers.
+
 ## CfP
 
 1. **Keep it short:** This talk demonstrates why open source is a key component of modern software
