@@ -10,6 +10,8 @@ Grant is a developer platform engineer at Google where he works on Google Cloud 
 
 - **Name:** Grant Timmerman
 - **Profession:** Developer Platform Engineer, Google
+- **Short Bio:** Developer Platform Engineer at Google focusing on serverless technologies on Google Cloud.
+- **Export Keywords:** Cloud, Serverless, G Suite, Open Source
 - **Facebook:** facebook.com/grant.timmerman
 - **Twitter:** twitter.com/granttimmerman
 - **GitHub:** github.com/grant
