@@ -1,3 +1,7 @@
+# Applications
+
+Use PaperCall and internal event trackers to find events to submit CfPs for.
+
 ## 2019, Node+JS Interactive 2019
 
 - Title: Go Serverless with Google Cloud Functions
