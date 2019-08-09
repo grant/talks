@@ -1,6 +1,7 @@
 # Applications
 
-Use PaperCall and internal event trackers to find events to submit CfPs for.
+- Use PaperCall and internal event trackers to find events to submit CfPs for.
+- Use meetup.com and contact local organizers.
 
 ## 2019, Node+JS Interactive 2019
 
