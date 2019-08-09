@@ -32,3 +32,6 @@ Grant is a developer platform engineer at Google where he works on Google Cloud 
 https://twitter.com/granttimmerman/status/1103069984576569345
 
 ![Screen Shot 2019-08-09 at 10 52 16](https://user-images.githubusercontent.com/744973/62798717-d3ed1680-ba93-11e9-9338-e65b6c3a22ae.png)
+
+![gmoji](https://user-images.githubusercontent.com/744973/62798784-f97a2000-ba93-11e9-8e28-c35348588620.png)
+
