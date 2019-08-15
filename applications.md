@@ -3,6 +3,10 @@
 - Use PaperCall and internal event trackers to find events to submit CfPs for.
 - Use meetup.com and contact local organizers.
 
+## 2020, Feb JSConf HI
+- Title: Building Massively Asynchronous Serverless Applications
+- Abstract: Serverless lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. Build full stack serverless applications with storage, databases, machine learning, and more. In this session, you'll learn best practices on building massively distributed workloads in the cloud using TypeScript and Google Cloud Platform.
+
 ## 2019, Node+JS Interactive 2019
 
 - Title: Go Serverless with Google Cloud Functions
