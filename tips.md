@@ -92,3 +92,8 @@ https://twitter.com/granttimmerman
 ```
 
 ### Thank the organizers (in person and in email)
+
+## Organizers
+
+- [Budget](https://www.google.com/url?q=https%3A%2F%2Fspeakerdeck.com%2Fzasadnyy%2Fthe-definitive-guide-to-large-scale-events-team-budget-content%3Fslide%3D33&sa=D&sntz=1&usg=AFQjCNFsemoBZ3NBYjpyhoDzwEU1wLBDbA)
+- [Content](https://docs.google.com/document/d/1ocMIyXR1escNvw1x7lA5tyHJb0nOzTGLJDmr6B0kYjo/edit#heading=h.ad53mxs510wf)
