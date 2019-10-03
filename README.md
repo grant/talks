@@ -3,6 +3,9 @@
 ## 10.12.2019 
 - **Event:** [DevFest 2019 - Buenos Aires, Argentina](https://www.meetup.com/es-ES/gdg-wtm/events/264036293/)
 
+## 10.04.2019 
+- **Event:** [DevFest Santiago](https://devfest.cl)
+
 ## 09.26.2019 Go Serverless with Google Cloud!
 - **Event:** [Noders – Santiago, Chile](https://www.meetup.com/NodersJS/events/264707900/)
 - Issue: https://github.com/Noders/Meetups/issues/105
