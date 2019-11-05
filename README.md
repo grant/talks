@@ -1,24 +1,30 @@
 # Talks
 
-## 11.23.2019 Intro to Google Cloud Run
+## 12.16.2019 Go Serverless with Google Cloud!
+- **Event:** [DevFest CDMX](https://www.meetup.com/cloudmx/events/262709329/)
+
+## 11.23.2019 Go Serverless with Google Cloud!
 - **Event:** [DevFest Cali](https://www.meetup.com/GDGCali/events/264293187/)
 
-## 11.16.2019 Intro to Google Cloud Run
+## 11.16.2019 Go Serverless with Google Cloud!
 - **Event:** [DevFest Medellin](https://www.meetup.com/GDG-Medellin/events/262641229/)
 
-## 11.13.2019 Intro to Google Cloud Run
+## 11.13.2019 Serverless with Knative
 - **Event:** [Cloud Summit Mexico](https://inthecloud.withgoogle.com/summit-2019/global-register.html)
 
-## 11.09.2019 Intro to Google Cloud Run
+## 11.09.2019 Go Serverless with Google Cloud!
 - **Event:** [DevFest Lima](https://www.meetup.com/GDG-Open/events/263942288/)
 
-## 10.19.2019 Intro to Google Cloud Run
+## 10.26.2019 Go Serverless with Google Cloud!
+- **Event:** [GDG Lima](https://www.meetup.com/gdglima/events/265429819/)
+
+## 10.19.2019 Go Serverless with Google Cloud!
 - **Event:** [DevFest Cusco](https://www.meetup.com/gdgcuscoperu/events/263807769/)
 
 ## 10.12.2019 Ir sin servidor con Google Cloud Functions
 - **Event:** [DevFest 2019 - Buenos Aires, Argentina](https://www.meetup.com/es-ES/gdg-wtm/events/264036293/)
 
-## 10.04.2019 Intro into Google Cloud Functions
+## 10.04.2019 Go Serverless with Google Cloud!
 - **Event:** [DevFest Santiago](https://devfest.cl)
 - **Description** Google Cloud Functions hace fácil para los desarrolladores correr y escalar código en la nube así como construir aplicaciones event-driven serverless. En esta charla aprenderás sobre las últimas actualizacaiones con Google Cloud Functions junto con algunas demos de Funcionts en acción!
 
