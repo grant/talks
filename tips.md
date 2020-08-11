@@ -72,6 +72,15 @@ Examples:
 - Take pictures
 - Setup computer with slides and demos. Close everything else as much as possible.
 
+## Talk
+
+Tips from Google's studio:
+
+- Get your energy up!
+- Be animated with your delivery (imagine presenting to an audience when 
+  - Use hands. Sit up. Camera at eye-line. Smile.
+- Explain, don't read. Everybody can tell you're reading. Break into bullet points. Short and punchy.
+
 ## Post-talk
 
 ### Thank the attendees
@@ -89,6 +98,8 @@ https://www.youtube.com/watch?v=1w2t3EWmlVU
 
 🐦TWEET your questions at me:
 https://twitter.com/granttimmerman
+
+Don't forget to smile, and I'll see you next time!
 ```
 
 ### Thank the organizers (in person and in email)
