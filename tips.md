@@ -5,9 +5,26 @@
 - Curate best content
 - Have bio webpage
 
+## Setup
+
+- MBP
+- Camtasia 3.1.2
+- Microphone w/ mic cable, mic creadle, mic stand, pop filter
+- table secure, blanket over table to minimize sound bounce, chair, water
+- Camtasia > Preferences >
+  - Recording: 30 fps
+  - Project: Original Recording Dimensions
+  - How to Record: New Project. Record. Mic levels should be -6db to -18db.
+  - Record 20 seconds of silence.
+- Export locally to .mp4, 30 frame rate, 24 keyframe rate, H.264 compression, dimensions current data rate automatic, high profile, CAVLC entropy. Enable audio/smoothing.
+  - Save as LXL001_PROJECT. Each recording is SHOWCODE_VIDEOTYPE_TAKENUMBER like LXL001_screencast_T1
+- Save 30s room tone LXL001_roomtone_T1
+
 ## Slides
 
 - Code Highlighting: https://romannurik.github.io/SlidesCodeHighlighter/
+  - In slides: cursor should be red pointer
+  - In code: cursor should be regular
 
 ## Structure
 
@@ -68,6 +85,7 @@ Examples:
 - Look sharp
 - Wear a nametag
 - Smile
+- Bring energy, personality, excitement for your product
 - Talk to the audience
 - Take pictures
 - Setup computer with slides and demos. Close everything else as much as possible.
@@ -80,6 +98,7 @@ Tips from Google's studio:
 - Be animated with your delivery (imagine presenting to an audience when 
   - Use hands. Sit up. Camera at eye-line. Smile.
 - Explain, don't read. Everybody can tell you're reading. Break into bullet points. Short and punchy.
+- Avoid using first person like "let's", inmplying a company and you walking through something. Focus on the user. "To 
 
 ## Post-talk
 
