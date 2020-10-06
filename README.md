@@ -231,3 +231,7 @@ This repo contains lots of information about talks I give.
 <img src="https://user-images.githubusercontent.com/744973/45561625-0ac39980-b7fd-11e8-89d2-2d28c714acd7.jpg" width="400" />
 
 (09.12.2018 – Python Meetup) [Tweet](https://twitter.com/granttimmerman/status/1040067728583712769)
+
+<img src="https://user-images.githubusercontent.com/744973/92666482-012b7a00-f2cf-11ea-8e77-35ff6d2b7b1e.png" />
+
+(2014 – Open Academy Socket.io team)
