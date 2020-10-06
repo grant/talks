@@ -3,6 +3,7 @@
 Developer Platform Engineer, Google
 
 ![profile](https://user-images.githubusercontent.com/744973/38894674-c762c6dc-4242-11e8-82a4-c3369c2adf94.jpg)
+![me](https://user-images.githubusercontent.com/744973/93780614-fe455900-fbed-11ea-8208-3d4081ad421e.jpg)
 
 Grant is a developer platform engineer at Google where he works on Google Cloud Platform. Previously he led open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
 
