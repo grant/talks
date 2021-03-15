@@ -7,6 +7,8 @@ Developer Platform Engineer, Google
 
 Grant is a developer platform engineer at Google where he works on Google Cloud Platform. Previously he led open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
 
+Grant earned a bachelor's degree in computer science from the University of Washington, Seattle.
+
 ## Common Questions
 
 - **Name:** Grant Timmerman
@@ -37,4 +39,3 @@ https://twitter.com/granttimmerman/status/1103069984576569345
 ![Grant Timmerman](https://user-images.githubusercontent.com/744973/93780614-fe455900-fbed-11ea-8208-3d4081ad421e.jpg)
 
 ![gmoji](https://user-images.githubusercontent.com/744973/62798784-f97a2000-ba93-11e9-8e28-c35348588620.png)
-
