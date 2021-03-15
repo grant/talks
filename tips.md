@@ -26,11 +26,14 @@
   - In slides: cursor should be red pointer
   - In code: cursor should be regular
 
-## Structure
+## Presentation
 
-- Title
-- About
-- Schedule
+- Articulation: Pronounce every word clearly. No mumbling.
+- Vocabulary: Use natural sounding words to be credible. No complicated words that aren't spoken.
+- Tone: Use your voice to create inflections in the sentences.
+- Emphasis: Find key 1-2 words in each sentence - pronounce them slightly slower. Add short pauses.
+- Pacing: Vary your pace according to what you're speaking about. Use normal convo pace.
+- Posture: Good natural posture. Shoulders back, straight.
 
 ## Finding Talks
 
