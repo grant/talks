@@ -80,28 +80,6 @@ Examples:
 - Have you wanted to do X but didn't make progress? Y can help you do X. This talk will teach you how to A, how to B, and how C can help too. After this talk...
 - Question? Fact helps. This talk will teach attendees how to X including (list A, B, C). After this talk, attendees can Z!
 
-## Pre-talk
-
-- Look sharp
-- Wear a nametag
-- Smile
-- Bring energy, personality, excitement for your product
-- Talk to the audience
-- Take pictures
-- Setup computer with slides and demos. Close everything else as much as possible.
-
-## Talk
-
-Tips from Google's studio:
-
-- Get your energy up!
-- Be animated with your delivery (imagine presenting to an audience when 
-  - Use hands. Sit up. Camera at eye-line. Smile.
-- Explain, don't read. Everybody can tell you're reading. Break into bullet points. Short and punchy.
-- Avoid using first person like "let's", inmplying a company and you walking through something. Focus on the user. "To 
-
-## Post-talk
-
 ### Thank the attendees
 
 Example:
