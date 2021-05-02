@@ -183,6 +183,7 @@ This repo contains lots of information about talks I give.
 
 ### 12.16.2017 - All About Apps Script
 - Event: DevFest SV: https://devfest2017.gdg-sv.com/
+- Meetup: https://www.meetup.com/gdg-silicon-valley/events/244582419/
 - Slides: https://docs.google.com/presentation/d/1y6qY3e2CTAegqJMAFTdDx8Hh_C_zTAvRfwiD7xrypow/edit?usp=sharing
 
 ## 2015
