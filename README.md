@@ -1,13 +1,15 @@
 # Talks
 
-This repo contains lots of information about talks I've given.
+This repo contains lots of information about talks I've given in the past.
+
+All events were held in-person at the event location (unless specified), and usually lasted 30-60 minutes. I usually speak with a combination of slides and demos.
 
 ## Events
 
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
-| Google I/O '21 | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
-| GDG Kansas City | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
+| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
+| GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
 | GDG Cloud Manila | 02.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Manila/events/268741372) |
 | GDG Cloud Syndey | 02.11.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcloudsydney/events/267899575) |
 | GDG Cloud Hanoi | 01.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Hanoi/events/267896968) |
