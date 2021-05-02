@@ -26,8 +26,8 @@ This repo contains lots of information about talks I've given.
 | Google I/O '19 | 05.07.2019 | Functions as a Service | [🔗](https://events.google.com/io2019/) |
 | Cloud Next '19 | 04.10.2019 | Functions as a Service | [🎥](https://www.youtube.com/watch?v=fEbAALVwyEU) |
 | GDG SV | 02.23.2019 | Google Cloud Functions for Go | [🔗](https://www.meetup.com/gdg-silicon-valley/events/258255512/) |
-| Developer Week – SF | 02.22.2019 | All About Apps Script – Talk | [🔗](https://developerweek2019.sched.com/event/JFo7/pro-talk-all-about-apps-script) |
-| Developer Week – SF | 02.20.2019 | Apps Script, The Original Serverless Runtime – Workshop | [🔗](https://developerweek2019.sched.com/event/JYSK/pro-workshop-apps-script-the-original-serverless-runtime) |
+| Developer Week, SF | 02.22.2019 | All About Apps Script – Talk | [🔗](https://developerweek2019.sched.com/event/JFo7/pro-talk-all-about-apps-script) |
+| Developer Week, SF | 02.20.2019 | Apps Script, The Original Serverless Runtime – Workshop | [🔗](https://developerweek2019.sched.com/event/JYSK/pro-workshop-apps-script-the-original-serverless-runtime) |
 | GDG Central Florida | 01.19.2019 | All About Apps Script | [🔗](https://www.meetup.com/GDG-Central-Florida/events/253755546/) [🎥](https://www.youtube.com/watch?v=dpYHPzQF1qI) |
 | SeattleJS | 12.13.2018 | All About Apps Script | [🔗](https://github.com/seattlejs/seattlejs/issues/138) |
 | DevFest LA | 12.02.2018 | All About Apps Script | [🔗](https://devfest.gdgla.org/) |
@@ -49,13 +49,13 @@ This repo contains lots of information about talks I've given.
 | TrailheaDX, SF | 03.28.2018 | All About Apps Script | [🔗](https://developer.salesforce.com/trailheadx) |
 | Cloud Community Conference, Sunnyvale | 03.16.2018 | All About Apps Script | – |
 | DevFest SV | 12.16.2017 | All About Apps Script | [🔗](https://www.meetup.com/gdg-silicon-valley/events/244582419/) |
-| Seattle, UW | 10.29.2015 | How to Prepare for Technical Interviews | [📄](https://docs.google.com/presentation/d/1X4kAlq4amNeIxW6Y6IR6fh1whSor5llmfMxWfep84yY) |
-| Seattle, UW | 04.16.2015 | React.js: The Frontend Framework of the Future | [🎥](https://www.youtube.com/watch?v=iVVZfPbNCtI) [🔗](https://github.com/grant/react-talk) |
-| Seattle, UW | 10.16.2014 | MEAN Stack | [📄](https://github.com/grant/MEAN-Stack-Slides) [🔗](http://grant.github.io/react-talk/talk/) |
-| Seattle, UW | 05.14.2014 | 3D Printing | [📄](https://github.com/UWHackers/uwhackers.github.io/tree/master/3d-printing) [🔗](http://uwhackers.github.io/3d-printing/#/) |
-| Seattle, UW | 05.01.2014 | Mobile Design - Responsive Design and UI Paradigms | [📄](https://github.com/grant/Mobile-Development-Design/tree/gh-pages) [🔗](http://grant.github.io/Mobile-Development-Design/#/) |
-| Seattle, UW | 04.02.2014 | Open Sourcing Everything | [📄](https://github.com/UWHackers/uwhackers.github.io/tree/master/open-source-slides) [🔗](http://uwhackers.github.io/open-source-slides/#/) |
-| Seattle, UW | 02.27.2014 | Hacking like a Hipster | [📄](https://github.com/UWHackers/WebDev/tree/master/p4/slides) [🔗](http://uwhackers.github.io/grunt-gulp-heroku-slides) [🎥](https://www.youtube.com/watch?v=weZUOS8QuLw) |
+| UW Hackers, Seattle | 10.29.2015 | How to Prepare for Technical Interviews | [📄](https://docs.google.com/presentation/d/1X4kAlq4amNeIxW6Y6IR6fh1whSor5llmfMxWfep84yY) |
+| UW Hackers, Seattle | 04.16.2015 | React.js: The Frontend Framework of the Future | [🎥](https://www.youtube.com/watch?v=iVVZfPbNCtI) [🔗](https://github.com/grant/react-talk) |
+| UW Hackers, Seattle | 10.16.2014 | MEAN Stack | [📄](https://github.com/grant/MEAN-Stack-Slides) [🔗](http://grant.github.io/react-talk/talk/) |
+| UW Hackers, Seattle | 05.14.2014 | 3D Printing | [📄](https://github.com/UWHackers/uwhackers.github.io/tree/master/3d-printing) [🔗](http://uwhackers.github.io/3d-printing/#/) |
+| UW Hackers, Seattle | 05.01.2014 | Mobile Design - Responsive Design and UI Paradigms | [📄](https://github.com/grant/Mobile-Development-Design/tree/gh-pages) [🔗](http://grant.github.io/Mobile-Development-Design/#/) |
+| UW Hackers, Seattle | 04.02.2014 | Open Sourcing Everything | [📄](https://github.com/UWHackers/uwhackers.github.io/tree/master/open-source-slides) [🔗](http://uwhackers.github.io/open-source-slides/#/) |
+| UW Hackers, Seattle | 02.27.2014 | Hacking like a Hipster | [📄](https://github.com/UWHackers/WebDev/tree/master/p4/slides) [🔗](http://uwhackers.github.io/grunt-gulp-heroku-slides) [🎥](https://www.youtube.com/watch?v=weZUOS8QuLw) |
 
 ## Event Descriptions
 
