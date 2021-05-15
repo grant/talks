@@ -85,6 +85,10 @@ Here are some video highlights:
 
 ## Misc. Media
 
+![GDG SYD](https://user-images.githubusercontent.com/744973/118345886-43135c80-b4fd-11eb-91f1-d9dbaf5cf6dd.png)
+
+GDG Cloud Syndey | 02.11.2020
+
 ![serverless](https://user-images.githubusercontent.com/744973/42464374-a80be546-835d-11e8-8268-878269606f9b.jpg)
 
 > [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
