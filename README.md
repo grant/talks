@@ -93,6 +93,10 @@ GDG Cloud Syndey | 02.11.2020
 
 > [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
 
+Google I/O '18
+
+![io18](https://user-images.githubusercontent.com/744973/118346045-49560880-b4fe-11eb-93cf-cfc95444315d.png)
+
 (12.16.2017 - All About Apps Script) ([Crowd](https://twitter.com/gdgsv/status/942127374497333248))
 
 <img src="https://user-images.githubusercontent.com/744973/45561625-0ac39980-b7fd-11e8-89d2-2d28c714acd7.jpg" width="400" />
