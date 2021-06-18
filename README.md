@@ -8,7 +8,7 @@ All events were held in-person at the event location (unless specified), and usu
 
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
-| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
+| Google I/O '21 – Serverless Dart & Kotlin (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://www.youtube.com/watch?v=JwCmu_INnCg) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
 | GDG Cloud Manila | 02.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Manila/events/268741372) |
 | GDG Cloud Syndey | 02.11.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcloudsydney/events/267899575) |
@@ -78,6 +78,8 @@ Here are some video highlights:
 
 | Title | Date | Channel | Link |
 |--|--|--|--|
+| Cloud, Dart, and Full Stack Flutter Q&A | 05.19.2021 | Flutter | [🎥](https://www.youtube.com/watch?v=r8rVm4-RJJM)
+| Cloud Functions vs Cloud Run | 10.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=zRjOSxTpC3A&lc=Ugw1ez0SnvBtlETTJH14AaABAg)
 | CloudEvents with Google Cloud | 09.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=yGQe0-5D7e4) |
 | Functions Framework | 11.10.2019 |  Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=qQiqo1zZJmI)
 | Functions as a Service (Cloud Next '19) | 04.11.2019 |  Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=fEbAALVwyEU)
