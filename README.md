@@ -8,7 +8,7 @@ All events were held in-person at the event location (unless specified), and usu
 
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
-| Google I/O '21 – Serverless Dart & Kotlin (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://www.youtube.com/watch?v=JwCmu_INnCg) |
+| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://www.youtube.com/watch?v=JwCmu_INnCg) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
 | GDG Cloud Manila | 02.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Manila/events/268741372) |
 | GDG Cloud Syndey | 02.11.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcloudsydney/events/267899575) |
