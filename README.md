@@ -80,15 +80,27 @@ Learn how to increase the power of your favorite Google apps — like Calendar, 
 
 ## Misc. Media
 
+![GDG SYD](https://user-images.githubusercontent.com/744973/118345886-43135c80-b4fd-11eb-91f1-d9dbaf5cf6dd.png)
+
+GDG Cloud Syndey | 02.11.2020
+
 ![serverless](https://user-images.githubusercontent.com/744973/42464374-a80be546-835d-11e8-8268-878269606f9b.jpg)
 
 > [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
+
+Google I/O '18
+
+![io18](https://user-images.githubusercontent.com/744973/118346045-49560880-b4fe-11eb-93cf-cfc95444315d.png)
 
 (12.16.2017 - All About Apps Script) ([Crowd](https://twitter.com/gdgsv/status/942127374497333248))
 
 <img src="https://user-images.githubusercontent.com/744973/45561625-0ac39980-b7fd-11e8-89d2-2d28c714acd7.jpg" width="400" />
 
 (09.12.2018 – Python Meetup) [Tweet](https://twitter.com/granttimmerman/status/1040067728583712769)
+
+Dreamforce '18
+
+![image](https://user-images.githubusercontent.com/744973/118346075-91752b00-b4fe-11eb-9ce0-50edf9ea4192.png)
 
 <img src="https://user-images.githubusercontent.com/744973/92666482-012b7a00-f2cf-11ea-8e77-35ff6d2b7b1e.png" />
 
