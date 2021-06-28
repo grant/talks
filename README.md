@@ -51,7 +51,7 @@ All events were held in-person at the event location (unless specified), and usu
 | NYC – Cloud Next Extended | 09.29.2018 | All About Apps Script | [🔗](https://www.meetup.com/GDG-Bronx/events/252972021/) |
 | GDG Fremont | 09.26.2018 | Automate G Suite with Apps Script | [🔗](https://www.meetup.com/GDG-Fremont/events/254077517) |
 | SF Python | 09.12.2018 | G Suite + Python lightning talk | [🔗](https://www.meetup.com/sfpython/events/254295636) [🖼️](https://twitter.com/granttimmerman/status/1040067728583712769) |
-| Colgate-Palmolive, Westgate FL | 09.06.2018 | G Suite Developer Days | – |
+| Colgate-Palmolive, Tampa FL | 09.06.2018 | G Suite Developer Days | – |
 | OpenLate | 08.07.2018 | Automate with Apps Script | [🔗](https://www.meetup.com/OpenLate/events/qbcsfnyxlbkb/) |
 | Cloud Next '18 | 07.25.2018 | Enhancing the Google Apps Script Developer Experience | [🎥](https://www.youtube.com/watch?v=wXYtWwtizag) |
 | DevFest DC | 06.08.2018 | All About Apps Script | [🔗](https://www.devfestdc.org/) |
