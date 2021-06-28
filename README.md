@@ -6,10 +6,14 @@ All events were held in-person at the event location (unless specified), and usu
 
 ## Events
 
+*💥 – Highlighted events*
+
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
-| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🔗](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
+| Google I/O '21 (Virtual) | 05.19.2021 | Cloud, Dart, and full-stack Flutter – Q&A | [🎥](https://www.youtube.com/watch?v=r8rVm4-RJJM) |
+| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🎥](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
+| 💥 Video – CloudEvents with Google Cloud | 09.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=yGQe0-5D7e4) |
 | GDG Cloud Manila | 02.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Manila/events/268741372) |
 | GDG Cloud Syndey | 02.11.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcloudsydney/events/267899575) |
 | GDG Cloud Hanoi | 01.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Hanoi/events/267896968) |
@@ -17,6 +21,7 @@ All events were held in-person at the event location (unless specified), and usu
 | DevFest Cali | 11.23.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDGCali/events/264293187/) |
 | DevFest Medellin | 11.16.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Medellin/events/262641229/) |
 | Cloud Summit Mexico | 11.13.2019 | Serverless with Knative | [🔗](https://inthecloud.withgoogle.com/summit-2019/global-register.html) |
+| 💥 Video – Functions Framework | 11.10.2019 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=qQiqo1zZJmI)
 | DevFest Lima | 11.09.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Open/events/263942288/) |
 | GDG Lima | 10.26.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdglima/events/265429819/) |
 | DevFest Cusco | 10.19.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcuscoperu/events/263807769/) |
@@ -41,6 +46,7 @@ All events were held in-person at the event location (unless specified), and usu
 | UT Austin | 10.24.2018 | All About Apps Script (student edition) | [🔗](https://docs.google.com/presentation/d/1Fk_f4VjLREKDt1dJBp0JYc0SCoVVhKVaPZNyQIDLCZo/edit?usp=sharing) |
 | DevFest Vancouver | 10.21.2018 | Automate G Suite with APIs and Apps Script | [🔗](https://devfest2018vancouver.firebaseapp.com/) [🎥](https://www.youtube.com/watch?v=qFN8ULYt7Bk) |
 | GDG Fresno | 10.20.2018 | All About Apps Script | [🔗](https://www.meetup.com/googledevelopers/events/253850757/) |
+| Video – Apps Script – clasp and TypeScript | 10.05.2018 | Totally Unscripted | [🎥](https://www.youtube.com/watch?v=ReeTGi600QI)
 | NYC – Cloud Next Extended | 09.29.2018 | All About Apps Script | [🔗](https://www.meetup.com/GDG-Bronx/events/252972021/) |
 | GDG Fremont | 09.26.2018 | Automate G Suite with Apps Script | [🔗](https://www.meetup.com/GDG-Fremont/events/254077517) |
 | SF Python | 09.12.2018 | G Suite + Python lightning talk | [🔗](https://www.meetup.com/sfpython/events/254295636) [🖼️](https://twitter.com/granttimmerman/status/1040067728583712769) |
@@ -71,17 +77,6 @@ Here are descriptions for some of the common events from above:
 ### All About Apps Script
 
 Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
-
-## Videos
-
-Here are some video highlights:
-
-| Title | Date | Channel | Link |
-|--|--|--|--|
-| CloudEvents with Google Cloud | 09.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=yGQe0-5D7e4) |
-| Functions Framework | 11.10.2019 |  Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=qQiqo1zZJmI)
-| Functions as a Service (Cloud Next '19) | 04.11.2019 |  Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=fEbAALVwyEU)
-| Enhancing the Google Apps Script Developer Experience with clasp and TypeScript | 10.05.2018 | Totally Unscripted | [🎥](https://www.youtube.com/watch?v=ReeTGi600QI)
 
 ## Misc. Media
 
