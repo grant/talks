@@ -11,7 +11,7 @@ All events were held in-person at the event location (unless specified), and usu
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
 | Google I/O '21 (Virtual) | 05.19.2021 | Cloud, Dart, and full-stack Flutter – Q&A | [🎥](https://www.youtube.com/watch?v=r8rVm4-RJJM) |
-| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🎥](https://events.google.com/io/session/6d5795f2-ec1c-4c7a-9efa-ea90c8c59c03) |
+| Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🎥](https://www.youtube.com/watch?v=JwCmu_INnCg) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
 | 💥 Video – CloudEvents with Google Cloud | 09.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=yGQe0-5D7e4) |
 | GDG Cloud Manila | 02.21.2020 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Cloud-Manila/events/268741372) |
@@ -25,6 +25,7 @@ All events were held in-person at the event location (unless specified), and usu
 | DevFest Lima | 11.09.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/GDG-Open/events/263942288/) |
 | GDG Lima | 10.26.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdglima/events/265429819/) |
 | DevFest Cusco | 10.19.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/gdgcuscoperu/events/263807769/) |
+| Cloud Functions vs Cloud Run | 10.15.2020 | Google Cloud Tech | [🎥](https://www.youtube.com/watch?v=zRjOSxTpC3A&lc=Ugw1ez0SnvBtlETTJH14AaABAg)
 | DevFest Buenos Aires | 10.12.2019 | Ir sin servidor con Google Cloud Functions | [🔗](https://www.meetup.com/es-ES/gdg-wtm/events/264036293/) |
 | DevFest Santiago | 10.04.2019 | Go Serverless with Google Cloud! | [🔗](https://devfest.cl) |
 | Noders, Santiago | 09.26.2019 | Go Serverless with Google Cloud! | [🔗](https://www.meetup.com/NodersJS/events/264707900/) |
