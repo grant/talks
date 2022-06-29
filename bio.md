@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/744973/143484396-8f5e689b-4427-4e22-b5cc-0369b4a1550e.png" width="400" />
 
-Grant is a software engineer at Google where he works on serverless runtimes for Google Cloud. Previously he led open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
+Grant is a software engineer at Observable. Previously he worked at Google for over 5 years on serverless runtimes for Google Cloud and open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.
 
 Grant earned a bachelor's degree in computer science from the University of Washington, Seattle.
 
