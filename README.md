@@ -10,6 +10,7 @@ All events were held in-person at the event location (unless specified), and usu
 
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
+| SF AI Engineers | 12.03.2025 | Smarter Than Scripts: AI That Understands Your UI | [🔗](https://www.meetup.com/san-francisco-ai-engineers/events/310731770/?slug=san-francisco-ai-engineers&eventId=310731770)
 | Google I/O '21 (Virtual) | 05.19.2021 | Cloud, Dart, and full-stack Flutter – Q&A | [🎥](https://www.youtube.com/watch?v=r8rVm4-RJJM) |
 | Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🎥](https://www.youtube.com/watch?v=JwCmu_INnCg) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
