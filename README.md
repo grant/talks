@@ -10,7 +10,7 @@ All events were held in-person at the event location (unless specified), and usu
 
 | Event | Date | Title of the Presentation | Links (may be dead)
 | --- | --- | --- | --- |
-| SF AI Engineers | 12.03.2025 | Smarter Than Scripts: AI That Understands Your UI | [🔗](https://www.meetup.com/san-francisco-ai-engineers/events/310731770/?slug=san-francisco-ai-engineers&eventId=310731770)
+| SF AI Engineers | 12.03.2025 | Smarter Than Scripts: AI That Understands Your UI | [🔗](https://fonzi.ai/community/events/sf-ai-engineers-december-2025) [🔗](https://www.meetup.com/san-francisco-ai-engineers/events/310731770/?slug=san-francisco-ai-engineers&eventId=310731770)
 | Google I/O '21 (Virtual) | 05.19.2021 | Cloud, Dart, and full-stack Flutter – Q&A | [🎥](https://www.youtube.com/watch?v=r8rVm4-RJJM) |
 | Google I/O '21 (Virtual) | 05.18.2021 | Go full-stack with Kotlin or Dart on Google Cloud | [🎥](https://www.youtube.com/watch?v=JwCmu_INnCg) |
 | GDG Kansas City (Virtual) | 12.10.2020 | Connect Serverless Events with Cloud Eventarc | [🔗](https://gdg.community.dev/events/details/google-gdg-cloud-kansas-city-presents-connect-serverless-events-with-cloud-eventarc/) |
@@ -81,6 +81,10 @@ Here are descriptions for some of the common events from above:
 Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
 
 ## Misc. Media
+
+![SF AI Engineers](https://private-user-images.githubusercontent.com/744973/528913550-8d30d1de-7c14-43e4-8956-d670bbd040ea.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYyNzU2MjIsIm5iZiI6MTc2NjI3NTMyMiwicGF0aCI6Ii83NDQ5NzMvNTI4OTEzNTUwLThkMzBkMWRlLTdjMTQtNDNlNC04OTU2LWQ2NzBiYmQwNDBlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyMVQwMDAyMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDM0NzMyYzMzNTM4NjUxNzIzZDhlMWY2MDhkMDdjZDcyYTJjN2M2ODA0NTMyMDNmMzQwYzc1NDM3MDZmZTk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NdjXXD9ArOskLft-vr2k4ktIGb0obiBCXEvUsufcKFM)
+
+SF AI Engineers | 12.03.2025
 
 ![GDG SYD](https://user-images.githubusercontent.com/744973/118345886-43135c80-b4fd-11eb-91f1-d9dbaf5cf6dd.png)
 
