@@ -9,15 +9,13 @@ Grant earned a bachelor's degree in computer science from the University of Wash
 ## Common Questions
 
 - **Name:** Grant Timmerman
-- **Profession:** Software Engineer, Google
-- **Short Bio:** Software Engineer at Google focusing on serverless technologies on Google Cloud.
-- **Export Keywords:** Cloud, Serverless, G Suite, Open Source
-- **Facebook:** facebook.com/grant.timmerman
-- **Twitter:** twitter.com/granttimmerman
-- **GitHub:** github.com/grant
-- **LinkedIn:** linkedin.com/in/granttimmerman
+- **Profession:** Software Engineer
+- **Short Bio:** Ex Google Software Engineer with 10 years of experience working at Google and startups.
+- **Twitter:** @granttimmerman
+- **GitHub:** @grant
+- **LinkedIn:** @granttimmerman
 - **Website:** grant.cm
-- **YouTube:** youtube.com/granttimmerman
+- **YouTube:** @granttimmerman
 
 ### Session
 
@@ -28,13 +26,4 @@ Grant earned a bachelor's degree in computer science from the University of Wash
 
 ### Other photos
 
-![https://twitter.com/granttimmerman/status/1103069984576569345](https://pbs.twimg.com/media/D07kM0SU8AAMQBe.jpg)
-https://twitter.com/granttimmerman/status/1103069984576569345
-
-![Screen Shot 2019-08-09 at 10 52 16](https://user-images.githubusercontent.com/744973/62798717-d3ed1680-ba93-11e9-9338-e65b6c3a22ae.png)
-
-![Grant Timmerman](https://user-images.githubusercontent.com/744973/93780614-fe455900-fbed-11ea-8208-3d4081ad421e.jpg)
-
-![](https://user-images.githubusercontent.com/744973/38894674-c762c6dc-4242-11e8-82a4-c3369c2adf94.jpg)
-
-![gmoji](https://user-images.githubusercontent.com/744973/62798784-f97a2000-ba93-11e9-8e28-c35348588620.png)
+See the [Media Gallery](file:///Users/grant/Documents/github/grant/talks/media.md#other-photos) for more photos.

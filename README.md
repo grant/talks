@@ -2,7 +2,11 @@
 
 This repo contains lots of information about talks I've given in the past.
 
-All events were held in-person at the event location (unless specified), and usually lasted 30-60 minutes. I usually speak with a combination of slides and demos.
+## Navigation
+
+- [Speaking Guide](file:///Users/grant/Documents/github/grant/talks/talk.md) — Master guide for finding, preparing, and delivering talks.
+- [Bio & Photos](file:///Users/grant/Documents/github/grant/talks/bio.md) — Bio, headshots, and common speaker info.
+- [Media Gallery](file:///Users/grant/Documents/github/grant/talks/media.md) — Photos and media from past events.
 
 ## Events
 
@@ -68,47 +72,4 @@ All events were held in-person at the event location (unless specified), and usu
 | UW Hackers, Seattle | 04.02.2014 | Open Sourcing Everything | [📄](https://github.com/UWHackers/uwhackers.github.io/tree/master/open-source-slides) [🔗](http://uwhackers.github.io/open-source-slides/#/) |
 | UW Hackers, Seattle | 02.27.2014 | Hacking like a Hipster | [📄](https://github.com/UWHackers/WebDev/tree/master/p4/slides) [🔗](http://uwhackers.github.io/grunt-gulp-heroku-slides) [🎥](https://www.youtube.com/watch?v=weZUOS8QuLw) |
 
-## Event Descriptions
 
-Here are descriptions for some of the common events from above:
-
-### Go Serverless with Google Cloud!
-
-- **English:** Your development agility comes from building systems composed of small, independent units of functionality focused on doing one thing well. Cloud Functions lets you build and deploy services at the level of a single function, not at the level of entire applications, containers, or VMs. In this session, you will learn the fundamentals about Google Cloud Functions, some use-cases, and how to write Cloud Functions in TypeScript!
-- **Spanish:** Google Cloud Functions hace fácil para los desarrolladores correr y escalar código en la nube así como construir aplicaciones event-driven serverless. En esta charla aprenderás sobre las últimas actualizacaiones con Google Cloud Functions junto con algunas demos de Funcionts en acción!
-
-### All About Apps Script
-
-Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.
-
-## Misc. Media
-
-![SF AI Engineers](https://private-user-images.githubusercontent.com/744973/528913550-8d30d1de-7c14-43e4-8956-d670bbd040ea.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYyNzU2MjIsIm5iZiI6MTc2NjI3NTMyMiwicGF0aCI6Ii83NDQ5NzMvNTI4OTEzNTUwLThkMzBkMWRlLTdjMTQtNDNlNC04OTU2LWQ2NzBiYmQwNDBlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyMVQwMDAyMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDM0NzMyYzMzNTM4NjUxNzIzZDhlMWY2MDhkMDdjZDcyYTJjN2M2ODA0NTMyMDNmMzQwYzc1NDM3MDZmZTk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NdjXXD9ArOskLft-vr2k4ktIGb0obiBCXEvUsufcKFM)
-
-SF AI Engineers | 12.03.2025
-
-![GDG SYD](https://user-images.githubusercontent.com/744973/118345886-43135c80-b4fd-11eb-91f1-d9dbaf5cf6dd.png)
-
-GDG Cloud Syndey | 02.11.2020
-
-![serverless](https://user-images.githubusercontent.com/744973/42464374-a80be546-835d-11e8-8268-878269606f9b.jpg)
-
-> [AppScript is #serverless and it’s #javascript @granttimmerman"](https://twitter.com/gdgsv/status/942127094405873664)
-
-Google I/O '18
-
-![io18](https://user-images.githubusercontent.com/744973/118346045-49560880-b4fe-11eb-93cf-cfc95444315d.png)
-
-(12.16.2017 - All About Apps Script) ([Crowd](https://twitter.com/gdgsv/status/942127374497333248))
-
-<img src="https://user-images.githubusercontent.com/744973/45561625-0ac39980-b7fd-11e8-89d2-2d28c714acd7.jpg" width="400" />
-
-(09.12.2018 – Python Meetup) [Tweet](https://twitter.com/granttimmerman/status/1040067728583712769)
-
-Dreamforce '18
-
-![image](https://user-images.githubusercontent.com/744973/118346075-91752b00-b4fe-11eb-9ce0-50edf9ea4192.png)
-
-<img src="https://user-images.githubusercontent.com/744973/92666482-012b7a00-f2cf-11ea-8e77-35ff6d2b7b1e.png" />
-
-(2014 – Open Academy Socket.io team)
