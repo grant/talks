@@ -37,6 +37,7 @@ All events were held in-person at the event location (unless specified), and usu
 | GDG SV | 02.23.2019 | Google Cloud Functions for Go | [🔗](https://www.meetup.com/gdg-silicon-valley/events/258255512/) |
 | Developer Week, SF | 02.22.2019 | All About Apps Script – Talk | [🔗](https://developerweek2019.sched.com/event/JFo7/pro-talk-all-about-apps-script) |
 | Developer Week, SF | 02.20.2019 | Apps Script, The Original Serverless Runtime – Workshop | [🔗](https://developerweek2019.sched.com/event/JYSK/pro-workshop-apps-script-the-original-serverless-runtime) |
+| DevFest Chicago | 02.01.2019 | All About Apps Script | [🔗](https://windycity.devfest.io/home) |
 | GDG Central Florida | 01.19.2019 | All About Apps Script | [🔗](https://www.meetup.com/GDG-Central-Florida/events/253755546/) [🎥](https://www.youtube.com/watch?v=dpYHPzQF1qI) |
 | SeattleJS | 12.13.2018 | All About Apps Script | [🔗](https://github.com/seattlejs/seattlejs/issues/138) |
 | DevFest LA | 12.02.2018 | All About Apps Script | [🔗](https://devfest.gdgla.org/) |
